@@ -1,0 +1,13 @@
+img{ 
+    width: 700px;
+    height: 500px;
+    object-fit: cover;
+}
+.page{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
